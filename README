@@ -7,6 +7,7 @@ dmenu is an efficient dynamic menu for X.
 Patches
 -------
 - Added center patch <https://tools.suckless.org/dmenu/patches/center/>.
+- Added border patch <https://tools.suckless.org/dmenu/patches/border/>.
 
 Requirements
 ------------
