@@ -2,4 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 dmenu
+stest
+*.orig
+*.rej
 *.o
