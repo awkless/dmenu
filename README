@@ -1,7 +1,12 @@
+-*- Patched by Awkless -*-
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
+Patches
+-------
+- Added center patch <https://tools.suckless.org/dmenu/patches/center/>.
 
 Requirements
 ------------
