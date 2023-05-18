@@ -10,6 +10,7 @@ Patches
 - Added border patch <https://tools.suckless.org/dmenu/patches/border/>.
 - Added grid patch <https://tools.suckless.org/dmenu/patches/grid/>.
 - Added gridnav patch <https://tools.suckless.org/dmenu/patches/gridnav/>.
+- Added numbers patch <https://tools.suckless.org/dmenu/patches/numbers/>.
 
 Requirements
 ------------
