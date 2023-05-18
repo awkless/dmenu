@@ -11,6 +11,8 @@ Patches
 - Added grid patch <https://tools.suckless.org/dmenu/patches/grid/>.
 - Added gridnav patch <https://tools.suckless.org/dmenu/patches/gridnav/>.
 - Added numbers patch <https://tools.suckless.org/dmenu/patches/numbers/>.
+- Added fuzzymatch patch <https://tools.suckless.org/dmenu/patches/fuzzymatch/>.
+- Added fuzzyhighlight patch <https://tools.suckless.org/dmenu/patches/fuzzyhighlight/>.
 
 Requirements
 ------------
